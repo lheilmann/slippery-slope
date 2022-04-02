@@ -1,0 +1,15 @@
+/data/patterns/*
+
+/references/glove/*
+
+# metadata
+/notebooks/.ipynb_checkpoints
+
+__pycache__
+
+# misc
+.DS_Store
+.idea
+
+*.numbers
+*.html
