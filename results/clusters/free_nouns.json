@@ -1,0 +1,63 @@
+{
+  "0": [
+    "clock",
+    "pulse"
+  ],
+  "1": [
+    "surface",
+    "light",
+    "glass",
+    "plate"
+  ],
+  "2": [
+    "thing",
+    "one",
+    "bit",
+    "time",
+    "person",
+    "lot",
+    "bump",
+    "stuff",
+    "way",
+    "kind",
+    "place",
+    "sort"
+  ],
+  "3": [
+    "object",
+    "pattern"
+  ],
+  "4": [
+    "beat",
+    "sound",
+    "rhythm"
+  ],
+  "5": [
+    "movement",
+    "action"
+  ],
+  "6": [
+    "phone",
+    "screen"
+  ],
+  "7": [
+    "vibration",
+    "friction"
+  ],
+  "8": [
+    "skin"
+  ],
+  "9": [
+    "finger",
+    "hand",
+    "fingertip"
+  ],
+  "10": [
+    "paper"
+  ],
+  "11": [
+    "feeling",
+    "sensation",
+    "emotion"
+  ]
+}

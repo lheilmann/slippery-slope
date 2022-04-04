@@ -1,0 +1,61 @@
+{
+  "0": [
+    "pattern",
+    "finger",
+    "hand",
+    "head",
+    "beat",
+    "action"
+  ],
+  "1": [
+    "wave",
+    "pulse",
+    "rhythm",
+    "heartbeat"
+  ],
+  "2": [
+    "screen",
+    "window",
+    "glass",
+    "light"
+  ],
+  "3": [
+    "vibration",
+    "surface",
+    "friction"
+  ],
+  "4": [
+    "one",
+    "bit",
+    "kind",
+    "way",
+    "feeling",
+    "time",
+    "sense",
+    "lot",
+    "attention",
+    "sort",
+    "reason",
+    "thing",
+    "mind",
+    "stuff",
+    "person"
+  ],
+  "5": [
+    "alarm",
+    "phone"
+  ],
+  "6": [
+    "word",
+    "adjective"
+  ],
+  "7": [
+    "excitement",
+    "sensation",
+    "buzz"
+  ],
+  "8": [
+    "sound",
+    "music"
+  ]
+}

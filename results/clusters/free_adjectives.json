@@ -1,0 +1,65 @@
+{
+  "0": [
+    "light",
+    "heavy",
+    "slight",
+    "subtle",
+    "intense"
+  ],
+  "1": [
+    "happy",
+    "nice",
+    "rough",
+    "hard",
+    "good",
+    "big",
+    "last",
+    "long"
+  ],
+  "2": [
+    "more",
+    "much",
+    "high",
+    "other",
+    "same",
+    "normal",
+    "different",
+    "similar"
+  ],
+  "3": [
+    "fast",
+    "easy",
+    "slow"
+  ],
+  "4": [
+    "electrical",
+    "electric"
+  ],
+  "5": [
+    "bad",
+    "angry",
+    "weird",
+    "annoying"
+  ],
+  "6": [
+    "little",
+    "small",
+    "tiny"
+  ],
+  "7": [
+    "pleasant",
+    "quiet",
+    "calm"
+  ],
+  "8": [
+    "smooth",
+    "soft"
+  ],
+  "9": [
+    "constant",
+    "frequent"
+  ],
+  "10": [
+    "sticky"
+  ]
+}
